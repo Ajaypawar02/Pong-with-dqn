@@ -1,7 +1,8 @@
 # Pong-with-dqn
 
 Trained a Deep Q learning agent using CNN.
-I trained my agent on open ai atari "PongNoFrameskip-v4"
+Trained on open ai atari "PongNoFrameskip-v4" environment.
+
 
 my agent was able to win after 160 epsiodes 
 
